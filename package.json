@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/solsson/uniteditor-semantic/issues"
   },
-  "homepage": "https://github.com/solsson/uniteditor-semantic"
+  "homepage": "https://github.com/solsson/uniteditor-semantic",
+  "dependencies": {
+    "authormodel": "^0.3.6",
+    "medium-editor-webpack": "^0.2.0"
+  }
 }

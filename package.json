@@ -18,6 +18,11 @@
   "homepage": "https://github.com/solsson/uniteditor-semantic",
   "dependencies": {
     "authormodel": "^0.3.6",
+    "font-awesome": "^4.3.0",
+    "font-awesome-webpack": "0.0.3",
     "medium-editor-webpack": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.7.3"
   }
 }
